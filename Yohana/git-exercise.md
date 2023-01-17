@@ -407,7 +407,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
   - screenshoot your output:
 
-    ![assets/log/exercise8-2.png](assets/log/exercise8-2.png)
+    ![assets/log/log3.png](assets/log/log3.png)
   
 ## Diff
 
@@ -784,7 +784,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise6.png](assets/branch/exercise6.png)
+      ![assets/branch/3.png](assets/branch/3.png)
 
 - Exercise 7
 
@@ -820,7 +820,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise7.png](assets/branch/exercise7.png)
+      ![assets/branch/exercise7.png](assets/branch/branch7.png)
 
 ## Remote
 
@@ -848,7 +848,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/remote/exercise1.png](assets/remote/exercise1.png)
+      ![assets/remote/remote.png](assets/remote/remote.png)
 
 ## Push
 
