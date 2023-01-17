@@ -723,7 +723,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise4.png](assets/branch/exercise4.png)
+      ![assets/branch/4.png](assets/branch/4.png)
 
    > Disini terlihat bahwa sudah terjadi percabangan pada branch `master` dengan `new-feature`
 
