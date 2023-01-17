@@ -754,7 +754,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise5.png](assets/branch/exercise5.png)
+      ![assets/branch/5.png](assets/branch/5.png)
 
 - Exercise 6
 
