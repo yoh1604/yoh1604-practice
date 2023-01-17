@@ -636,7 +636,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise1.png](assets/branch/exercise1.png)
+      ![assets/branch/1.png](assets/branch/1.png)
 
 - Exercise 2
 
@@ -664,7 +664,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise2.png](assets/branch/exercise2.png)
+      ![assets/branch/2.png](assets/branch/2.png)
 
 - Exercise 3
 
@@ -693,7 +693,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     - screenshoot your output:
 
-      ![assets/branch/exercise3.png](assets/branch/exercise3.png)
+      ![assets/branch/3.png](assets/branch/3.png)
 
     > Jadi begitulah sebuah branch pada Git. Dia melakukan isolasi setiap perubahan pada file dan folder berdasarkan branch nya.
 
