@@ -792,7 +792,7 @@ Jika diperhatikan dengan `git status` kita sekarang berada pada branch `master`
 
     ![conflict](./assets/conflict.png)
   
-    Solve conflict tersebut dengang memilih perubahan pada branch `master`!
+    Solve conflict tersebut dengan memilih perubahan pada branch `master`!
 
   - ***Required command**: Lakukan perintah `git log --all --decorate --oneline --graph` untuk melihat percabangan yang terjadi
 
