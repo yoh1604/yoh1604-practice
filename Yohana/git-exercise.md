@@ -255,7 +255,7 @@ Sebelumnya kita sudah tau bahwa file `belajar.html` sudah berada di **staging ar
 
     - screenshoot your output:
 
-      ![assets/log/exercise3.png](assets/log/exercise3.png)
+      ![assets/log/log3.png](assets/log/log3.png)
 
     > Terlihat bahwa sekarang, file `belajar.html` sudah berada di **staging area** dengan status _modified_
 
